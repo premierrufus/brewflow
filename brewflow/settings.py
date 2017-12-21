@@ -25,7 +25,7 @@ SECRET_KEY = 'gg^6iqgk&w7z*s(szk(&(a!8ngz*mnh91^87)@bbc&m28k8_gk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cellar.bhlocal.me']
 
 
 # Application definition
